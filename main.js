@@ -1,1 +1,2 @@
-console.log("savira olivia putri")
+const nama = "savira olivia putri"
+console.log(nama)
